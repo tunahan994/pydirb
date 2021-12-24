@@ -1,4 +1,4 @@
-# pydirb
+# pydirscanner
 A basic web content scanner. Coding with Python.
 First publishing date --> 24.12.2021
 
